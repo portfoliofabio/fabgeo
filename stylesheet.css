@@ -1,0 +1,35 @@
+body {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   
+    background: linear-gradient( #043EB0, black);
+}
+
+.appprude {
+    width: 80%;
+    margin: 0 auto;
+    padding: 100px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.appprude h1 {
+    color: yellowgreen;
+}
+
+.appprude h3 {
+    color: white;
+    text-align: justify;
+    line-height: 25px;
+
+}
+
+.imagem {
+    width: 100%;
+    max-width: 600px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
+
